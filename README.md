@@ -10,6 +10,7 @@ Bu yazı, benim mülakat anılarımı ve şirketler hakkında yorumlarımı içe
 - [Radity](#radity)
 - [Udemy](#udemy)
 - [Prodaft](#prodaft)
+- [Kartaca](#kartaca)
 
 ## BGA / SOCRadar
 
@@ -216,3 +217,19 @@ Aynı şekilde Mehmet Dursun İnce'ye de bir feedback maili attım. Ama durum ay
 #### - Yönler
 
 - Feedback mailine geri dönüş yapılmaması.
+
+## Kartaca
+
+### Başvurulan Pozisyon: **Django Developer**
+
+LinkedIn üzerinden başvurmuştum. Aradan 1 ay geçtikten sonra döndüler:
+
+![Kartaca](images/kartaca.jpg)
+
+#### + Yönler
+
+- Yok
+
+#### - Yönler
+
+- Geç dönüş yapılması
