@@ -226,9 +226,19 @@ LinkedIn üzerinden başvurmuştum. Aradan 1 ay geçtikten sonra döndüler:
 
 ![Kartaca](images/kartaca.jpg)
 
+Bu dönüşlerinin üzerine, yukarıda anlattığım çoğu firmadan feedback istemem gibi bu firmadan da bir feedback istedim.
+
+![Kartaca Feedback İsteği](images/kartaca-feedback-istegi.jpg)
+
+Diğer firmalardan alışık olduğum üzere, asla dönüş yapılacağını ummuyordum. Ama şaşırtıcı bir şekilde dönüş aldım:
+
+![Kartaca Feedback](images/kartaca-feedback-donus.jpg)
+
+Diğer firmaların atamadığı bir feedback mailini atan Kartaca'ya eğer bu yazıyı okuyorlarsa teşekkürlerimi iletiyorum.
+
 #### + Yönler
 
-- Yok
+- Feedback mailime dönüş yapılması
 
 #### - Yönler
 
