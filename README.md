@@ -11,6 +11,7 @@ Bu yazı, benim mülakat anılarımı ve şirketler hakkında yorumlarımı içe
 - [Udemy](#udemy)
 - [Prodaft](#prodaft)
 - [Kartaca](#kartaca)
+- [Ecommercio](#ecommercio)
 
 ## BGA / SOCRadar
 
