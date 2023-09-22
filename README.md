@@ -243,3 +243,58 @@ Diğer firmaların atamadığı bir feedback mailini atan Kartaca'ya eğer bu ya
 #### - Yönler
 
 - Geç dönüş yapılması
+
+## Ecommercio
+
+### Başvurulan Pozisyon: **Python Backend Developer**
+
+Bu [ilanı](https://twitter.com/erenturkay/status/1696394722586075164) Zafer Ayan'ın Twitter'daki gönderisinin altında gördüm. İlan açıklamasında, Python 3.10+, Celery, mypy gibi kütüphaneleri kullandıklarını görünce ilanın tamamen bana göre olduğunu düşündüm ve başvurdum.
+
+Son sürüm Python kullanmalarına dikkat eden, güncel kütüphaneler, best practicelere dikkat eden bir yazılım ekibi olduğunu düşündüğüm için çok heyecanlanmıştım.
+
+Başvuru yaptığım gün içerisinde dönüş yaptılar ve meet ayarladık. İlk meet 31 Ağustos'da gerçekleşecekti.
+
+Bu meet'te ilanı paylaşan ve anladığım kadarıyla yazılım kısmından sorumlu olan Eren beyle tanıştıktan sonra 6 Eylül tarihinde bir teknik görüşme ayarlandı.
+
+![teknik mülakat metni](images/ecommercio-teknik-mulakat.png)
+
+Aynen bahsettikleri gibi oldu, teknik görüşmede hackerrank soruları gibi algoritma sorularıyla karşılaşmadım ve sohbet havasında çok güzel geçmişti. Görüşmenin sonunda ise `başka yerlerle görüşmememi` ve bundan sonra insan kaynaklarıyla olan meetlerden sonra aramızda görmek istediğini söyledi.
+
+Buraya kadar her şey muhteşem. Ama sonrası...
+
+![ik dönüşü](images/ecommercio-ik-1.png)
+
+11 Eylül Pazartesi günü gelen yukarıdaki mailden ne anlardınız? Gün içerisinde saat belirticeğinizi ve salı veya çarşamba gününe meet atanacağını değil mi?
+
+Yukarıdaki mail geldikten 2 saat sonra (mesai saati içerisinde) dönüş yaptım.
+
+![ik ye saat belirtişim](images/ecommercio-ik-2.png)
+
+> Salak kafam gidip en kısa sürede tamamlanması çok hoşuma gider yazmışım 🤣🤣
+
+Ve 1 hafta boyunca dönüş olmadı.
+
+18 Eylül Pazartesi günü dönüş yaptım.
+
+![ik ye ertesi hafta geri dönüşüm](images/ecommercio-ik-3.png)
+
+**Dönüş yapacağını** iddia eden maille aynı gün içerisinde cevap veriyor.
+
+![ik bak şuan dönüş yaptın](images/ecommercio-ik-4.png)
+
+Ve artık haftanın son günü 22 Eylül Cuma günü dayanamayıp son noktayı koydum.
+
+![ik ya son nokta](images/ecommercio-ik-5.png)
+
+Ve böylece 29 Ağustos'da başlayan hayallerim 22 Eylülde sulara düştü.
+
+#### + Yönler
+
+- Teknik kısımda son teknolojileri kullanmaları
+- Teknik mülakatta saf hackerrank vari algoritma soruları sormamaları
+
+#### - Yönler
+
+- İK
+- İK
+- İK
