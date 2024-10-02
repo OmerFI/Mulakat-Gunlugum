@@ -299,3 +299,21 @@ Ve böylece 29 Ağustos'da başlayan hayallerim 22 Eylülde sulara düştü.
 - İK
 - İK
 - İK
+
+### Edit
+
+Son maili attıktan sonra tamamen ümidi kesmiştim. Böyle bir cevaptan sonra asla dönüş yapılacağını da düşünmüyordum. Son maili 22 Eyl 2023 16:51'de atmıştım. Aynı gün 17:58'de de cevap geldi.
+
+![ik ya son nokta'ya dönüş](images/ecommercio-ik-6.png)
+
+Böyle bir cevap geleceğini beklemiyordum. Sert çıkışımdan sonra buna olumlu dönmeyi de absürt buluyordum.
+
+2 gün boyunca dönüş yapmadım, arkadaşlarımla konuştuğumda verdiğim olumsuz izlenimi geride bırakıp kariyerim için böyle şeyleri takmayıp ilerlemem gerektiğini söylediler. Ben de dönüş yaptım.
+
+![olumlu dönüş](images/ecommercio-ik-7.png)
+
+Sonuç olarak 2 Ekim 2023'te işe yarı zamanlı olarak başladım.
+
+Bu editi ise tam 1 yıl sonra 2 Ekim 2024'te yapıyorum.
+
+Hala burada çalışıyorum, çalışmayı seviyorum :)
